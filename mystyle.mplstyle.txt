@@ -1,0 +1,19 @@
+# mystyle.mplstyle - custom Matplotlib style
+
+axes.facecolor: white
+axes.edgecolor: black
+axes.grid: True
+grid.color: gray
+grid.linestyle: --
+grid.linewidth: 0.8
+
+lines.linewidth: 2
+lines.color: blue
+
+font.size: 14
+font.family: serif
+
+xtick.color: black
+ytick.color: black
+
+figure.figsize: 10, 6
